@@ -12,7 +12,7 @@ This plugin adds one new permission which can be configured using the ManiaContr
 * "Infect player" - Select which users are allowed to use the //infect command.
 
 ### Commands
-* "//infect <login>" - Infect the player with the specified login.
+* "//infect &lt;login&gt;" - Infect the player with the specified login.
 
 ## License
 Infection is licensed under the GPLv3, see LICENSE for more information.
