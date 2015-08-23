@@ -13,5 +13,6 @@ This plugin adds one new permission which can be configured using the ManiaContr
 
 ### Commands
 * "//infect <login>" - Infect the player with the specified login.
+
 ## License
 FastButtons is licensed under the GPLv3, see LICENSE for more information.
